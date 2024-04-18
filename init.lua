@@ -207,7 +207,7 @@ require('lazy').setup({
         {
           syntax = "markdown",
           ext = ".md",
-          path = "C:\\Users\\Admin\\Documents\\Wiki",
+          path = "\\path\\to\\your\\folder",
         },
       }
       vim.g.vimwiki_global_ext = 0
